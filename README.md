@@ -1,6 +1,6 @@
 # practica-git-github
 develop
-Esto es una practica
+Practica
 Nombre: Oscar
 Carrera: Ingeniería de Sistemas
 
