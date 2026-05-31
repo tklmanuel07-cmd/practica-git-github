@@ -1,2 +1,2 @@
 # practica-git-github
-Estos una prectica
+Esto es una prectica
